@@ -1,0 +1,19 @@
+=== RESOCONTO ANALISI ===
+Variabili trovate: 3
+Errori totali: 2
+Nomi non validi: 1
+Tipi non validi: 0
+Variabili non usate: 1
+-------------------------
+
+ --- CRONOLOGIA ERRORI --- 
+Rilevato errore alla riga n: 3 nel file.
+Rilevato errore alla riga n: 4 nel file.
+
+ --- VARIABILI NON USATE --- 
+Nome: non_usata
+
+ --- DETTAGLIO GENERALE VARIABILI --- 
+Riga 2      | Tipo: int             | Nome: a                    | Stato: USATA
+Riga 4      | Tipo: int             | Nome: usata                | Stato: USATA
+Riga 4      | Tipo: int             | Nome: non_usata            | Stato: NON USATA [!]

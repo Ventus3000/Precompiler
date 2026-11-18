@@ -1,0 +1,24 @@
+=== RESOCONTO ANALISI ===
+Variabili trovate: 7
+Errori totali: 2
+Nomi non validi: 0
+Tipi non validi: 0
+Variabili non usate: 2
+-------------------------
+
+ --- CRONOLOGIA ERRORI --- 
+Rilevato errore alla riga n: 14 nel file.
+Rilevato errore alla riga n: 15 nel file.
+
+ --- VARIABILI NON USATE --- 
+Nome: grande
+Nome: buffer
+
+ --- DETTAGLIO GENERALE VARIABILI --- 
+Riga 11      | Tipo: uint            | Nome: contatore            | Stato: USATA
+Riga 11      | Tipo: uint            | Nome: limite               | Stato: USATA
+Riga 12      | Tipo: real            | Nome: media                | Stato: USATA
+Riga 13      | Tipo: int             | Nome: x                    | Stato: USATA
+Riga 13      | Tipo: int             | Nome: y                    | Stato: USATA
+Riga 14      | Tipo: long            | Nome: grande               | Stato: NON USATA [!]
+Riga 15      | Tipo: char            | Nome: buffer               | Stato: NON USATA [!]

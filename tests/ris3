@@ -1,0 +1,28 @@
+=== RESOCONTO ANALISI ===
+Variabili trovate: 5
+Errori totali: 6
+Nomi non validi: 1
+Tipi non validi: 1
+Variabili non usate: 4
+-------------------------
+
+ --- CRONOLOGIA ERRORI --- 
+Rilevato errore alla riga n: 5 nel file.
+Rilevato errore alla riga n: 7 nel file.
+Rilevato errore alla riga n: 4 nel file.
+Rilevato errore alla riga n: 6 nel file.
+Rilevato errore alla riga n: 8 nel file.
+Rilevato errore alla riga n: 8 nel file.
+
+ --- VARIABILI NON USATE --- 
+Nome: temperatura
+Nome: _ok
+Nome: inutile1
+Nome: inutile2
+
+ --- DETTAGLIO GENERALE VARIABILI --- 
+Riga 3      | Tipo: int             | Nome: contatore            | Stato: USATA
+Riga 4      | Tipo: float           | Nome: temperatura          | Stato: NON USATA [!]
+Riga 6      | Tipo: char            | Nome: _ok                  | Stato: NON USATA [!]
+Riga 8      | Tipo: int             | Nome: inutile1             | Stato: NON USATA [!]
+Riga 8      | Tipo: int             | Nome: inutile2             | Stato: NON USATA [!]

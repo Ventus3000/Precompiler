@@ -1,0 +1,18 @@
+=== RESOCONTO ANALISI ===
+Variabili trovate: 5
+Errori totali: 0
+Nomi non validi: 0
+Tipi non validi: 0
+Variabili non usate: 0
+-------------------------
+
+ --- CRONOLOGIA ERRORI --- 
+
+ --- VARIABILI NON USATE --- 
+
+ --- DETTAGLIO GENERALE VARIABILI --- 
+Riga 3      | Tipo: int             | Nome: a                    | Stato: USATA
+Riga 4      | Tipo: float           | Nome: b                    | Stato: USATA
+Riga 5      | Tipo: double          | Nome: somma                | Stato: USATA
+Riga 6      | Tipo: char            | Nome: lettera              | Stato: USATA
+Riga 7      | Tipo: int             | Nome: contatore            | Stato: USATA
